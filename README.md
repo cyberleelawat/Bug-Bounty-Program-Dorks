@@ -10,7 +10,7 @@ A clean and organized list of Google Dorks used to find:
 
 Maintained by: Virendra Kumar  
 Organization: Cyber Leelawat  
-Website: https://cyberleelawat.vercel.app/
+Website: www.cyberleelawat.in
 
 ---
 
